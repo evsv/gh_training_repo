@@ -2,6 +2,6 @@ Line 1 EVS -> shwanu
 Line 2 EVS -> shwanu
 Line 3 EVS
 Line 4 EVS
-Line 5 EVS
+Line 5 EVS -> Plot twist: shwanu + smigi = shwanigi!
 Line 6 SmiGi believes the right way to say it is 'Shwanigi'
 

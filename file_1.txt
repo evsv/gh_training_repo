@@ -3,4 +3,5 @@ Line 2 EVS
 Line 3 EVS
 Line 4 EVS
 Line 5 EVS
-Line 6 SmiGi
+Line 6 SmiGi believes the right way to say it is 'Shwanigi'
+
